@@ -19,3 +19,5 @@ print("Все элементы уникальны")
 
 num = range(10)
 print (num)
+
+print("Ok")
